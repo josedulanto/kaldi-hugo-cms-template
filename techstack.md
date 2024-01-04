@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 josedulanto/kaldi-hugo-cms-template is built on the following main stack:
+
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
@@ -15,11 +16,13 @@ josedulanto/kaldi-hugo-cms-template is built on the following main stack:
 - [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 josedulanto/kaldi-hugo-cms-template is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
@@ -33,14 +36,15 @@ josedulanto/kaldi-hugo-cms-template is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png' alt='date-fns'/> [date-fns](https://date-fns.org/) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [josedulanto/kaldi-hugo-cms-template](https://github.com/josedulanto/kaldi-hugo-cms-template)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|11/09/23 <br/>Report generated|
+|41<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -190,9 +194,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (26)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (26)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -205,6 +209,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-es2015](https://www.npmjs.com/babel-preset-es2015)|v6.22.0|09/01/16|David Calavera |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.23.0|08/10/16|Mathias Biilmann Christensen |MIT|N/A|
 |[browser-sync](https://www.npmjs.com/browser-sync)|v2.18.8|08/10/16|Mathias Biilmann Christensen |Apache-2.0|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v3.10.0|01/03/17|Darin Dimitroff |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v1.16.0|08/10/16|Mathias Biilmann Christensen |MIT|N/A|
 |[exports-loader](https://www.npmjs.com/exports-loader)|v0.6.3|02/21/17|Mathias Biilmann Christensen |MIT|N/A|
 |[file-loader](https://www.npmjs.com/file-loader)|v0.9.0|02/21/17|Mathias Biilmann Christensen |MIT|N/A|
@@ -225,4 +230,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
